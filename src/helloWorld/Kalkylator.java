@@ -15,7 +15,14 @@ public class Kalkylator {
         return first = second;
 
     }
+
+    public int sub() {
+        return first - second;
+
+    }
+
     public int mul() {
         return first = second;
-        
+
+    }
 }
